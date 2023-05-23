@@ -1,4 +1,6 @@
-# Foro 2 - DPS 01-2023
+# Foro 2 - DPS Ciclo 01-2023
+
+### Autenticación de React Native con Firebase
 
 #### Estudiantes:
 
